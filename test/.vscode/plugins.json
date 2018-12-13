@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-mfp","cordova-plugin-device","cordova-plugin-dialogs","cordova-plugin-globalization","cordova-plugin-okhttp","cordova-plugin-mfp-push"]}

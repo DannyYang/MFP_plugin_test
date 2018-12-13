@@ -1,0 +1,1 @@
+var WL_CHECKSUM = {"checksum":0,"date":1544435658965,"machine":"HelloMac.local"}
